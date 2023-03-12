@@ -77,11 +77,14 @@ input:checked + label > .meme_img {
     }
 }
 
-@media (min-width: 1439px) {
+@media (min-width: 1919px) {
+
     body {
     font-size: 2.5em;
     }
+}
 
+@media (hover: hover) {
 
     .meme_label {
         cursor: pointer;
